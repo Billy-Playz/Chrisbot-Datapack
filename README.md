@@ -1,2 +1,2 @@
-# Chrisbot-Datapack
-Datapacks for mc.chrisbot.net
+# Chrisbot Datapack
+The files for the Chrisbot Datapacks
