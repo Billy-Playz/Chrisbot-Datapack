@@ -1,0 +1,8 @@
+tellraw @s [{"text":"- - - - - ","color":"dark_gray"},{"text":"[DataPack Changelog]","color":"green","bold":"true"},{"text":" - - - - -","color":"dark_gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"Full changelog can be found on the ","color":"gray"},{"text":"[GitHub]","bold":true,"color":"gray","clickEvent":{"action":"open_url","value":"https://github.com/Billy-Playz/Chrisbot-Datapack"},"hoverEvent":{"action":"show_text","contents":["",{"text":"View the GitHub"}]}}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"- Added sit trigger"}]
+tellraw @s [{"text":"- Added changelog function and GitHub"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"- - - - - ","color":"dark_gray"},{"text":"[DataPack Changelog]","color":"green","bold":"true"},{"text":" - - - - -","color":"dark_gray"}]
