@@ -7,3 +7,5 @@
 - Added trigger for Help
 - Fixed Sit trigger
 - Extended Spawn radius
+- Added time to Clocks
+- Added co-ordinates to Compass
