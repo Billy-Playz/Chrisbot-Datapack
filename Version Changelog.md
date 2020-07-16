@@ -3,5 +3,5 @@
 - Home/Spawnpoint feature
 - Moved CMDBlocks to functions
 - Spawn trigger
-- New on-join function
+- New "new-player-join" function
 - Removed files
