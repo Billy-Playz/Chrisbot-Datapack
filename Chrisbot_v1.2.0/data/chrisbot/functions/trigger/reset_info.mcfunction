@@ -1,0 +1,2 @@
+scoreboard players reset @s ResetInfo
+tellraw @s [{"text":"Chrisbot","color":"green","bold":"true"},{"text":" | ","color":"gray","bold":"true"},{"text":"The Chrisbot server will be resetting in a few weeks to accomodate for the 1.16 Nether Update. For any builds or items you want saving, PLEASE join the Unoffical Discord Server to put a request in, along with the co-ordinates of your base!","color":"red","bold":"false"}]
