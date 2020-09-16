@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:beds",
+    "#minecraft:slabs",
+    "#minecraft:stairs",
+    "#minecraft:carpets",
+    "#minecraft:logs",
+	"#minecraft:trapdoors"
+  ]
+}

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"Chrisbot","color":"green","bold":"true"},{"text":" | ","color":"gray","bold":"true"},{"text":"This block is not a supported seat block. Supported blocks: ","color":"red","bold":"false"},{"text":"Stairs, Slabs, Carpets, Beds, Sideways Logs, Closed Trapdoors","color":"gray","bold":"false","italic":"true"}]

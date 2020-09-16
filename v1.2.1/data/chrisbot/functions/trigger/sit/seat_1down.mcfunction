@@ -1,0 +1,2 @@
+summon pig ~ ~-1 ~ {NoAI:1b,Silent:1b,NoGravity:1b,Saddle:1b,Tags:['seat'],DeathLootTable:"minecraft:empty"}
+tellraw @s [{"text":"Chrisbot","color":"green","bold":"true"},{"text":" | ","color":"gray","bold":"true"},{"text":"Summoned a new seat. Right click the saddle below you to start sitting.","color":"green","bold":"false"}]
