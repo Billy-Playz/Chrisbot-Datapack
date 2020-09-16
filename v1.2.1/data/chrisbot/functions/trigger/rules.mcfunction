@@ -1,0 +1,17 @@
+scoreboard players reset @s Rules
+
+tellraw @s [{"text":"- - - - - ","color":"dark_gray"},{"text":"[Chrisbot Rules]","color":"green","bold":"true"},{"text":" - - - - -","color":"dark_gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"Don't use/build profanity","color":"red","bold":"true"}]
+tellraw @s [{"text":"- This server is for all ages - if and when possible, we moderate user actions. Please report anyone building/using profanity to the admins.","color":"gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"Don't be a troll","color":"red","bold":"true"}]
+tellraw @s [{"text":"- Killing yourself repeatedly or trolling will get you no reaction from the Admins, just a ban.","color":"gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"Don't be a begger","color":"red","bold":"true"}]
+tellraw @s [{"text":"- Admins cannot give you items unless in extream cases, and users cannot give you items out of thin air - you may ask to trade or for small-scale items from other users.","color":"gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"Griefing is allowed","color":"red","bold":"true"}]
+tellraw @s [{"text":"- This server is vanilla. Griefing will not be dealt with by the admins unless in extream cases where we can reset to the last server backup.","color":"gray"}]
+tellraw @s [{"text":" "}]
+tellraw @s [{"text":"- - - - - ","color":"dark_gray"},{"text":"[Chrisbot Rules]","color":"green","bold":"true"},{"text":" - - - - -","color":"dark_gray"}]

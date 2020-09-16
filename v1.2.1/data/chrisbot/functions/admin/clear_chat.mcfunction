@@ -1,0 +1,2 @@
+tellraw @a [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]
+tellraw @a [{"text":"Chrisbot","color":"green","bold":"true"},{"text":" | ","color":"gray","bold":"true"},{"text":"Chat has been cleared!","color":"dark_aqua","bold":"false"}]

@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "chrisbot:new_join"
+    },
+    "criteria": {
+        "Tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"Chrisbot","color":"green","bold":"true"},{"text":" | ","color":"gray","bold":"true"},{"text":"Another seat is too close!","color":"red","bold":"false"}]
